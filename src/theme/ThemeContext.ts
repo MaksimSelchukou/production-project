@@ -6,6 +6,7 @@ export interface ThemeContextProps {
     setTheme?: (theme: Theme) => void
 }
 
+console.log('vdvdsvs')
 export const enum Theme {
     LIGHT = 'light',
     DARK = 'dark',
